@@ -41,12 +41,12 @@ To run this project locally:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/modern-calculator.git
+git clone https://github.com/ChiragBK1012/Calculator.git
 ```
 
 **2. Navigate into the project folder**
 ```bash
-cd modern-calculator
+cd Calculator
 ```
 
 **3. Open `index.html` in your browser**  
@@ -57,7 +57,7 @@ Or use the **Live Server** extension in VS Code.
 ## 📁 Project Structure
 
 ```plaintext
-modern-calculator/
+Calculator/
 ├── index.html      # HTML structure
 ├── style.css       # Calculator styling and animations
 └── script.js       # Calculator logic and theme toggle
